@@ -1,5 +1,10 @@
 # cf_ai_study_buddy
 
+## Live Demo
+
+https://cf_ai_study_buddy.sbasheer.workers.dev
+
+
 An AI-powered Study Assistant built on Cloudflare Workers using Workers AI and Durable Objects for persistent conversational memory.
 
 ## 🚀 Overview
