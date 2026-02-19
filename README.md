@@ -6,6 +6,10 @@ An AI-powered Study Assistant built on Cloudflare Workers using Workers AI and D
 
 https://cf-ai-study-buddy.sbasheer.workers.dev/
 
+## 📸 Screenshot
+
+<img src="https://github.com/user-attachments/assets/8c7f3c19-ab2b-49fc-8c28-0b846396e0d1" width="600">
+
 ## 🚀 Overview
 
 AI Study Buddy is a conversational study assistant that helps users review academic topics through interactive Q&A.
